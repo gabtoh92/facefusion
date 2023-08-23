@@ -1,4 +1,4 @@
-FaceFusion
+FaceFusion non video
 ==========
 
 > Next generation face swapper and enhancer.
